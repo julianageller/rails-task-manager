@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24;
+ }
+
+ h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20;
+  font-weight: lighter;
+ }
+
+ h3 {
+  font-size: 20;
+  font-weight: lighter;
+ }
+
+ p {
+  font-size: 16;
+  font-weight: lighter;
+ }
+
+/* button {
+  border-radius: 5px;
+  height: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+ }
+
+ button a {
+  text-decoration: none;
+ }*/
